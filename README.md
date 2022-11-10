@@ -1,5 +1,5 @@
 
-![status](https://img.shields.io/badge/status-complete-success)
+Status: Complete
 
 # SignalRChat
 [This tutorial](https://learn.microsoft.com/en-us/aspnet/core/tutorials/signalr) teaches the basics of building a real-time app using SignalR. It sends messages from any client to all connected clients.
